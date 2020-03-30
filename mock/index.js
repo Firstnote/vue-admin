@@ -4,6 +4,7 @@ import { param2Obj } from '../src/utils'
 import user from './user'
 import table from './table'
 
+// console.log(13, process.env.VUE_APP_BASE_API)
 const mocks = [
   ...user,
   ...table
